@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student in the [COSIC](https://www.esat.kuleuven.be/cosic/) research group at KU Leuven, Belgium. I am supervised by Bart Preneel, Dave Singelée, and Aysajan Abidin.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research focuses on:
 
-## News
+- **Quantum Cryptography**
+  - Quantum distance bounding protocols
+  - Quantum key distribution
+  - Security of quantum networks
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Blockchain Security and Privacy**
+  - Privacy-preserving decentralized systems
+  - Cryptographic foundations of distributed ledger technology
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/talks.md %}

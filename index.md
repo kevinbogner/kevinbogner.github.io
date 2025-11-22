@@ -12,8 +12,8 @@ My research focuses on:
 
 - **Quantum Cryptography**
   - Quantum distance bounding protocols
-  - Quantum key distribution
-  - Security of quantum networks
+  - Formal verification of quantum protocols
+  - Distributed quantum computing
 
 - **Blockchain Security and Privacy**
   - Privacy-preserving decentralized systems

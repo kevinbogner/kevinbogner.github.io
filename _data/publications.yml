@@ -1,5 +1,16 @@
 main:
 
+  - title: "Lightweight Noise Diagnosis for Photonic Quantum Detectable Byzantine Agreement"
+    authors: "<strong>Kevin Bogner</strong>, Kuan-Cheng Chen, Aysajan Abidin, Kin K. Leung"
+    conference_short: QCNC'26
+    conference: "International Conference on Quantum Communications, Networking, and Computing (QCNC 2026), 2026."
+    pdf: /assets/pdf/noise_est.pdf
+    # bibtex:
+    code: https://github.com/kevinbogner/noise-est-sim
+    # page:
+    image: ./assets/img/noise_est_policy_plane.png
+    # notes:
+
   - title: "Continuous Variable Quantum Distance Bounding"
     authors: "<strong>Kevin Bogner</strong>, Aysajan Abidin, Dave Singelée"
     conference_short: INFOCOM WS'25

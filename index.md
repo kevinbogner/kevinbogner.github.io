@@ -11,13 +11,13 @@ I am a PhD student in the [COSIC](https://www.esat.kuleuven.be/cosic/) research 
 My research focuses on:
 
 - **Quantum Cryptography**
-  - Quantum distance bounding protocols
-  - Formal verification of quantum protocols
+  - Quantum distance-bounding protocols
   - Distributed quantum computing
+  - Security analysis of quantum cryptographic protocols
 
-- **Blockchain Security and Privacy**
-  - Privacy-preserving decentralized systems
-  - Cryptographic foundations of distributed ledger technology
+- **Blockchain Security**
+  - Post-quantum secure blockchain
+  - Formal verification of blockchain components
 
 {% include_relative _includes/publications.md %}
 
